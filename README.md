@@ -7,7 +7,6 @@ This website is about E-Commerce Website.
 This project is made on May 27, 2020 during 4th semester in university.<br><br>
 The purpose of this project is to implement Domain Driven Design in the project, so there will be a view, controller, handler, repository, and factory folder.<br><br>
 Because this is a follow-up project, we can use the previous project and develop it. We decided the previous project used here was the individual project of my friend which was one group with me so we developed it.<br><br>
-I coded the Add to Cart page, Insert Data to Cart Database code, Transaction History, and Transaction Report.<br><br>
 
 ## Run Guide
 Please run it from <b>Home.aspx</b> in view folder.<br><br>
