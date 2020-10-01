@@ -1,4 +1,4 @@
-# TokoBedia Website (2)
+# TokoBedia Website
 This is my school project in Pattern Software Design(or Domain Driven Design) Laboratory Subjects(COMP6114). This is a group project that consists of 3 people.<br><br>
 This is a follow-up project from the individual project and now done in groups.<br><br>
 This website is about E-Commerce Website.
@@ -12,13 +12,7 @@ I coded the Add to Cart page, Insert Data to Cart Database code, Transaction His
 ## Run Guide
 Please run it from <b>Home.aspx</b> in view folder.<br><br>
 
-## Project's Image Overview
-First Image :
-<p align="center"><img src="HomeScreen.png"></p><br>
-Second Image :
-<p align="center"><img src="TransactionHistory.png"></p>
-
 ## Technologies
 ▸ C#<br>
-▸ ASP.NET<br>
+▸ ASP.NET Web Forms<br>
 ▸ Visual Studio 2015<br>
